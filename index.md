@@ -1,7 +1,7 @@
 # [Christian Velasquez](#christian-velasquez)
 > Computer Engineering Major
 
-## [Fun Hobbies]
+## [Fun Hobbies](#fun-hobbies)
 **Volleyball**
 
 I ocassionally record games that I play at different [open gyms](https://www.youtube.com/channel/UCz_v6tNkXfnklln32-2l9oQ)
@@ -17,7 +17,7 @@ Climbing is [hard](https://na.op.gg/summoners/na/amnesiacsloth)
 **Friends**
 
 Kicking it at big bear!
-![image](assets/snowboarding.jpg)
+![image](assets/snowboard.jpg)
 
 Winning IMs!
 
